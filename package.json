@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "express": "latest",
     "express-session": "^1.15.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.7.7",
     "request": "latest",
     "validator": "^13.1.1"
